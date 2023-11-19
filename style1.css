@@ -1,0 +1,75 @@
+
+@import url('https://fonts.googleapis.com/css?family=Lato|Pacifico|Righteous|Roboto+Condensed|Ubuntu');
+body{
+    padding:0%;
+    margin:0%;
+    font-family:'Lato';
+     background-image:url('images/oyasis.jpg');
+    
+    background-size:cover;
+}
+.navbar-brand{
+    font-family:'Pacifico';
+    font-size: 35px;
+    color: lightcoral !important;
+    
+}
+
+
+.nav-link{
+    
+    
+    font-size:25px;
+    margin:15px;
+    color: black !important;
+    font-family:'Roboto Condensed';
+}
+.nav-link:hover{
+    color: #00E8E8 !important;
+}
+.active .nav-link{
+    color: #00E8E8 !important;
+}
+.menu-right-btn{
+    padding: 13px 46px;
+    margin-right:4%;
+    background-color:transparent;
+    transition:all 300ms ease-in;
+}
+.menu-right-btn:hover{
+    color:white;
+    background-color:#00E8E8;
+}
+.site-content{
+    background-image:url('images/img9.jpeg');
+    background-attachment:fixed;
+    background-size:cover;
+      
+}
+.site-title, .site-desc{
+    color:black;
+    font-family:'Righteous';
+    
+}
+.site-title{
+    
+    margin-bottom:6%;
+    font-size:50px;
+}
+
+.site-desc{
+    font-size:14px;
+    padding-left:15%;
+}
+.site-btn1{
+    margin-left:20%;
+    background-color:black;
+    color:white;
+}
+.site-btn2{
+    background-color:white;
+}
+.site-btn1, .site-btn2{
+    margin-top:3%;
+    margin-bottom:30%;
+}

@@ -1,0 +1,18 @@
+body{
+     background-image:url('images/white.jpg');
+    height: 100vh;
+    -webkit-background-size:cover;
+    background-size:cover;
+    background-position: center center;
+    position: relative;
+    
+}
+table{
+    margin-top: 15px;
+    height: 400px;
+    width: 700px;
+}
+a{
+    font-size:20px;
+    color:black;
+}

@@ -1,0 +1,24 @@
+fieldset{
+    height:200px;
+    width:900px;
+     
+}
+select{
+    width:100px;
+    height:40px;
+}
+body{
+     background-image:url('images/sun.jpg');
+    height: 100vh;
+    -webkit-background-size:cover;
+    background-size:cover;
+    background-position: center center;
+    position: relative;
+}
+p{
+    font-size:25px;
+}
+a{
+    font-size:20px;
+    color:black;
+}

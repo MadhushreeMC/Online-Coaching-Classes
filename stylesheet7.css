@@ -1,0 +1,59 @@
+.container
+ {
+  width: 370px;
+  height: 310px;
+  background-color: rgba(255,255,255, 0.2);
+  margin: auto;
+  margin-top: 230px;
+  border-radius:20px;
+  padding-top: 20px;
+ }
+ body
+ {
+   background-image:url('images/road.jpg');
+    height: 100vh;
+    -webkit-background-size:cover;
+    background-size:cover;
+    background-position: center center;
+    position: relative;
+ }
+ label
+ {
+  font-size: 38px;
+  margin-left: 129px;
+  font-family: Forte;
+  color: rgb(19,192,215);
+  
+ }
+ input
+ {
+  padding-left: 15px;
+  padding-right: 15px;
+  font-size: 24px;
+  border-radius: 7px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-left: 15px;
+  margin-top: 20px;
+  margin-bottom: 5px;
+  
+ }
+ .btn
+ {
+  width: 330px;
+  height: 40px;
+  margin-left: 17px;
+  margin-top: 15px;
+  border-radius: 10px;
+  font-family: Georgia;
+  font-size: 21px;
+  background-color: #0ed067;
+  cursor: pointer;
+ }
+ a
+ {
+   text-decoration: none;
+   font-size: 20px;
+   color: white;
+   margin-left: 200px;
+ }  
